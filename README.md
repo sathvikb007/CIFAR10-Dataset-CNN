@@ -8,7 +8,8 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 The project aims to classify the given data into its appropriate class by employing a 6 layered
 convolutional neural network. It utilizes convolutional, pooling, regularization and data augmentation 
-techniques thereby achieving a training and test accuracy of 86.35% each.
+techniques . Various models have been trained and the last model in the file has achieved a training 
+and test accuracy of 86.35% each.
 
 The code is written in Python with the help of the popoular deep learning framework Keras.
 
