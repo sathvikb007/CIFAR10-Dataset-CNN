@@ -11,5 +11,5 @@ convolutional neural network. It utilizes convolutional, pooling, regularization
 techniques . Various models have been trained and the last model in the file has achieved a training 
 and test accuracy of 86.35% each.
 
-The code is written in Python with the help of the popoular deep learning framework Keras.
+The code is written in Python with the help of the popular deep learning framework Keras.
 
